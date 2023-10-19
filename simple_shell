@@ -20,13 +20,13 @@ To get started with **Simple Shell**, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/simple_shell.git
+   git clone https://github.com/photonkay/simple_shell.git
    cd simple_shell
    ```
 
 2. **Compile the Code:**
    ```bash
-   gcc -o simple_shell main.c shell.c utils.c
+   gcc *.c -o simple_shell
    ```
 
 3. **Run the Shell:**
