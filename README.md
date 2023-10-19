@@ -50,5 +50,6 @@ $ exit
 ## Authors
 
 - Prince Odoi Asare (princeasa2005@gmail.com)
+- Emekowa Deborah Chiwendu (triciachiwen@yahoo.com)
 
 Feel free to contribute and make **Simple Shell** even better! If you encounter any issues or have suggestions, please create an issue or submit a pull request.
