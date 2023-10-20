@@ -27,7 +27,7 @@ static void sig_handler(int uuv)
  * Return: 0 or exit status, or ?
  */
 
-int main(int argc _attribute_((unused)), char **argv, char **environment)
+int main(int argc __attribute__((unused)), char **argv, char **environment)
 {
 	size_t len_buffer = 0;
 	unsigned int is_pipe = 0, s;
